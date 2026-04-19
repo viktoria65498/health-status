@@ -1,0 +1,23 @@
+{
+  "name": "unit-test-task-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@babel/cli": "^7.28.6",
+    "@babel/core": "^7.29.0",
+    "@babel/preset-env": "^7.29.2",
+    "eslint": "^10.2.1",
+    "jest": "^30.3.0"
+  },
+  "dependencies": {
+    "core-js": "^3.49.0"
+  }
+}
